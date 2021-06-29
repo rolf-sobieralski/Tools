@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All_Log.net", "All_Log.net\All_Log.net.csproj", "{FCDA2273-B4E2-40C1-AD2B-C95107895268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDA2273-B4E2-40C1-AD2B-C95107895268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDA2273-B4E2-40C1-AD2B-C95107895268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDA2273-B4E2-40C1-AD2B-C95107895268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDA2273-B4E2-40C1-AD2B-C95107895268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3B000A-473D-46D9-B5F5-32ABDBAA039A}
+	EndGlobalSection
+EndGlobal

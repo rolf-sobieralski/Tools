@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\bin\Debug\All_Log.net.dll
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\bin\Debug\All_Log.net.pdb
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\obj\Debug\All_Log.net.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\obj\Debug\All_Log.net.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\obj\Debug\All_Log.net.dll
+C:\Users\Admin\source\repos\All_Log.net\All_Log.net\obj\Debug\All_Log.net.pdb
